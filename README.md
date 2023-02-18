@@ -8,8 +8,10 @@ Play record of GPS tracking data using Google Map
 
 ## Getting Started
 
-`flutter pub get`.
-`flutter run`.
+```
+flutter pub get
+flutter run
+```
 
 This project is a starting point for a Flutter application.
 
