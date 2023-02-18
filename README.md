@@ -1,8 +1,15 @@
 # fluttertest
 
-A new Flutter project.
+Play record of GPS tracking data using Google Map
+
+
+## Screenshot (gif)
+[Screenshot app](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNmZGQwY2NmYjVjYmI2ZmM5ODViNjQ4Yjc5YWYzYjY3NGI5NTBiZSZjdD1n/FmGTfhbYiMmwMovvNC/giphy.gif)
 
 ## Getting Started
+
+`flutter pub get`
+`flutter run`
 
 This project is a starting point for a Flutter application.
 
