@@ -1,10 +1,10 @@
-# fluttertest
+# Map Track
 
 Play record of GPS tracking data using Google Map
 
 
 ## Screenshot (gif)
-[Screenshot app](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNmZGQwY2NmYjVjYmI2ZmM5ODViNjQ4Yjc5YWYzYjY3NGI5NTBiZSZjdD1n/FmGTfhbYiMmwMovvNC/giphy.gif)
+![Screenshot app](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5NzNkYmQyY2YyZDJiZjdlNzhjNDI1MDBjYmIxNjA3NmRlNzcyZCZjdD1n/FmGTfhbYiMmwMovvNC/giphy-downsized.gif)
 
 ## Getting Started
 
