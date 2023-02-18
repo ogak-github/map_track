@@ -6,8 +6,6 @@ import 'package:path/path.dart';
 
 class AppDatabase {
   static const _databaseName = "gps_data.sqlite";
-  static const _databaseName2 = "gps_data_sqlite.db";
-  static const _tableData = "data";
 
   AppDatabase._privateConstructor();
   static final AppDatabase instance = AppDatabase._privateConstructor();
